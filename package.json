@@ -1,0 +1,13 @@
+{
+  "name": "building-on-the-blockchain-tutorial",
+  "version": "0.0.0",
+  "description": "Simple tutorial from live coding at Building on the Blockchain",
+  "main": "index.js",
+  "author": "Willy Bruns",
+  "license": "MIT",
+  "dependencies": {
+    "bitcoinjs-lib": "^1.5.7",
+    "blockchain": "^1.0.6",
+    "qrcode": "^0.2.12"
+  }
+}
